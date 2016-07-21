@@ -28,6 +28,9 @@ ADVANCED TRACK: 16-20
 */
 
 
+//TEST
+
+
 // 1. Output each item in the following Array to your console:
 var livingRoom = ['couch', 'lamp', 'rug', 'shelf'];
 
